@@ -1,2 +1,2 @@
-# CV
+# About
 This is my first website.
